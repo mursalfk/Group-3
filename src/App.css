@@ -1,0 +1,16 @@
+.login-box{
+  position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    border-radius: 25px;
+    border: 5px solid darkblue;
+    text-align: center;
+    outline: 1px solid darkblue;
+    outline-offset: 15px;
+}
